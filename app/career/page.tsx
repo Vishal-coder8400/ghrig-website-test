@@ -73,10 +73,10 @@ export default function CareerPage() {
         {/* ✅ Heading */}
         <div className="text-center mb-12 px-5">
           <h1 className="text-xl sm:text-xxl lg:text-3xl font-bold text-gray-900 leading-tight font_family_jakarta">
-            We shall be excited to have you onboarded with gHRig.
+           We're always excited to hear from you!
           </h1>
           <p className="text-gray-600 mt-3 text-md max-w-2xl mx-auto">
-            Pls fill the details below and our HR team will connect with you as per your profile suitability
+           We’d love to hear from you! Whether you have questions, need assistance, or just want to say hello, feel free to reach out. Our team is always ready to help.
           </p>
         </div>
 
