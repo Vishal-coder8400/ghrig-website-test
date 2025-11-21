@@ -1,0 +1,6 @@
+[00:00:02.337] Server  LOG      ✓ Ready in 1854ms
+[00:00:15.695] Server  LOG      ○ Compiling / ...
+[00:00:18.924] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:20.494] Browser WARN    Image with src "/_next/static/media/Arrow_rigth.7d24c3bc.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:26.496] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:27.001] Browser WARN    Image with src "/_next/static/media/Arrow_rigth.7d24c3bc.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
